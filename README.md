@@ -20,8 +20,8 @@ Python and Flask-based application that converts long URLs into short, manageabl
 **🌾 Empowering Small Scale Farmers**
 Full-stack web platform developed using HTML, CSS, JavaScript, Flask, and MySQL.
 
-**🔐 Medical Image Encryption**
-Python and Flask-based project using OpenCV and QR Code technology for secure medical image processing.
+**🔐 Bank Management System**
+JavaScript-based application for managing basic banking operations such as account creation, deposits, withdrawals, and balance checking.
 
 **📊 Data Analysis Dashboard**
 Excel-based data analysis project involving data cleaning, preprocessing, analysis, and interactive dashboards.

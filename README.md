@@ -1,13 +1,11 @@
 # Hi, I'm Anjali 👋
-
-### B.Tech Computer Science Engineering Graduate 2026 | Data Analyst | Software Developer 
-
+ 
 I'm a Computer Science Engineering graduate with hands-on experience in **Python, JavaScript, Flask, SQL, HTML, and CSS**. I enjoy building web applications, working with databases, and solving programming problems.
 
 ### 🛠️ Technical Skills
 
 * **Languages:** Python, Java, JavaScript
-* **Frontend:** HTML, CSS, JavaScript
+* **Frontend:** HTML, CSS, JavaScript, React.js
 * **Backend:** Flask, REST APIs
 * **Databases:** MySQL, MongoDB
 * **Data & Analytics:** Excel, Power BI, Tableau
